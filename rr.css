@@ -1,0 +1,480 @@
+.main{
+
+ 
+
+     }
+
+.head{
+
+border: ;              
+
+background-image: url("ks.jpg");
+
+width: 100%;
+
+height: 800px;
+
+background-repeat: no-repeat;
+
+background-size: cover;
+
+}
+
+.headcn{
+
+border:;
+
+padding-top:;
+
+padding-bottom: 100px;
+
+margin-bottom: 2px;
+
+padding-right:;
+
+font-size: 40px;
+
+font-weight: 800;
+
+text-align: right;
+
+}
+
+.we{
+
+                border:  ;
+
+                width: 450px;
+
+                height: 180px;
+
+                margin-left:56%;
+
+}
+
+.will{
+
+ margin-top: 115px;
+
+     }
+
+ 
+
+.logo{
+
+                border: ;
+
+                width: 240px;
+
+                height:100px ;
+
+                margin-top: 0px;
+
+                margin-left:72%;
+
+}
+
+.sub1{
+
+                border:;
+
+    margin: 40px;
+
+    background-image: url("ks2.jpg");
+    background-size: 100% 100%;
+
+    width: 450px;
+
+    height: 556px;
+
+    background-repeat: no-repeat;
+
+    margin-left: 170px;
+
+}
+
+.consub1{
+
+                border: ;
+
+    width: 500px;
+
+    float: left;
+
+    margin-top: 175px;
+
+    margin-left: 300px;
+
+    background-color: black;
+    opacity: 75%;
+
+    color: #48c3f9;
+
+    padding: 30px;
+
+    word-spacing: 5px;
+
+}
+
+.text1{
+
+ 
+
+}
+
+.sub2{
+
+border: ;              
+
+background-image: url("img3.jpg");
+
+width: 100%;
+
+height: 900px;
+
+background-repeat: no-repeat;
+
+background-size: cover;
+
+}
+
+.text2{
+
+ 
+
+}
+
+.con3left{
+
+background-image: url("nk4.jpg");
+
+width: 50%;
+
+height: 500px;
+
+float: left;
+
+background-repeat: no-repeat;
+
+background-size: cover;
+
+ 
+
+}
+
+.con3left p{
+
+margin: 7%;
+
+padding: 16%;
+
+background-color: black;
+
+color: white;
+
+opacity: 70%;
+
+height: 200px;
+
+text-align: center;
+
+ 
+
+}
+
+.con3right{
+
+background-image: url(nk.jpg);
+
+width: 50%;
+
+height: 500px;
+
+float: left;
+
+background-repeat: no-repeat;
+
+background-size: cover;
+
+}
+
+.con3right p{
+
+margin: 7%;
+
+padding: 16%;
+
+background-color: black;
+
+color: white;
+
+opacity: 70%;
+
+height: 200px;
+
+text-align: center;
+
+}
+
+ 
+
+.footer
+
+{
+
+text-align: center;
+
+}
+
+.ftr1{
+
+ 
+
+}
+
+.ftr2{
+
+ 
+
+}
+
+ 
+
+@media(max-width: 600px){
+
+                .main{
+
+                                width: 100%;
+
+                                flex-direction: column;
+
+                                flex: 100%;
+
+                }
+
+                .head{
+
+                                width:600px;
+
+                                height: 452px;
+
+                                flex: 100%;
+
+                }
+
+                .sub1{
+
+                                margin:10px;
+
+                }
+
+                .consub1{
+
+                                margin: 20px;
+
+                }
+
+                .we{
+
+     border:;
+
+                width: 205px;
+
+                height: 140px;
+
+                margin-left:20px;
+
+     margin-bottom:5px;
+
+                font-size: 3px;
+
+ 
+
+                }
+
+    .will{
+
+         font-size: 15px;
+
+         padding-top:10px;
+
+        }
+
+   .logo{
+
+                width: 80px;
+
+                height:50px ;
+
+                margin-left:225px;
+
+      }
+
+   .logo img{
+
+                        height:30px ;
+
+                        width:80px ;
+
+                        background-image: url("ks3.jpg");
+
+            }
+
+   .consub1{
+
+    border: 2px solid red;
+
+    width: 220px;
+
+    height:70px ;
+
+    float: left;
+
+    margin-top: 85px;
+
+    margin-left:45px;
+
+    word-spacing:1px;
+
+    line-height: 11px;
+
+    padding: 1px;
+
+   }
+
+   .text1
+
+      {   border: ;
+
+          width:100%;
+
+       }
+
+   .training{
+
+                font-size:9px;
+
+   }
+
+   .we{
+
+                border:  ;
+
+                width: 200px;
+
+                height: 90px;
+
+                margin-left:40%;
+
+                font-size: 20px;
+
+                color: black;
+
+                margin-top:5px;
+
+ 
+
+}
+
+  .head{
+
+   background-image: url("ks.jpg");
+
+   width: 100%;
+
+   height:98%;
+
+   background-repeat: no-repeat;
+
+   background-size: cover;
+
+   }
+
+   .sub1{
+
+                border:;
+
+    margin-top:12px;
+
+    background-image: url(ks2.jpg);
+
+    width: 70%;
+
+    height: 256px;
+
+    background-repeat: no-repeat;
+
+    margin-left:10px;
+
+    background-size: 100% 100%;
+
+  
+
+    }
+
+ 
+
+    .sub2{
+
+     border:;         
+
+     background-image: url(img3.jpg);
+
+     width: 100%;
+
+     height: 300px;
+
+     background-repeat: no-repeat;
+
+     background-size:
+
+      }
+
+     .text2{
+
+          border:;
+
+          width: 100%;
+
+          padding:5px;
+
+ 
+
+           }
+
+    .con3{
+
+               height:200px;
+
+        }
+
+    .con3left{
+
+              height:300px;
+
+              }
+
+    .con3right{
+
+              height:300px;
+
+              }
+
+    .footer{
+
+                    border: ;
+
+            width:100%;
+
+            margin-top:100px;
+
+           }
+
+ 
+
+ 
+
+   
+
+ 
+
